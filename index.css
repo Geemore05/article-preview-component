@@ -124,22 +124,18 @@ h2{
     margin: auto;
     color:rgb(85, 81, 81) ;
 }
-.attribution{
-    /* position: fixed; */
-    position: relative;
-    font-size: 20px;
-}
+.attribution { 
+    font-size: 13px; text-align: center;
+ }
 .attribution a{
     text-decoration: none;
+    color:  #3e52a3;
 }
 @media only screen and (min-width: 1000px){
 .container{
     height: 274px;
     width: 820px;
     grid-template-columns: 1.4fr 1.6fr;
-  
-
-
 }
 .right-side{
       height: 270px;
