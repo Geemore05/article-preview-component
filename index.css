@@ -124,6 +124,12 @@ h2{
     margin: auto;
     color:rgb(85, 81, 81) ;
 }
+
+.social{
+display: none;
+transition: all 0.25s linear 0s;
+}
+
 .attribution { 
     font-size: 13px; text-align: center;
  }
